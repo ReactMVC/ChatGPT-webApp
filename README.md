@@ -26,7 +26,7 @@ npm install
 3. Build webApp Client
 
 ```bash
-npm install --global expo-cli && expo build:web
+npm install --global expo-cli && expo build:web // if error: npx expo export:web
 ```
 
 ## Developer Contact
