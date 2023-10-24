@@ -23,10 +23,10 @@ cd ChatGPT-Client
 npm install
 ```
 
-3. Build webApp Client
+3. Build webApp Client (if error: npx expo export:web)
 
 ```bash
-npm install --global expo-cli && expo build:web // if error: npx expo export:web
+npm install --global expo-cli && expo build:web
 ```
 
 ## Developer Contact
