@@ -1,4 +1,4 @@
-# ChatGPT webApp Client
+# ChatGPT WEB Client
 React Native ChatGPT WEB Client without api-key 
 
 ## Installation
